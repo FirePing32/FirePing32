@@ -25,9 +25,9 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React Native; 
-- 👯 I’m looking to collaborate on [Autolinks](https://github.com/prakhargurunani/Autolinks) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on [Autolinks](https://github.com/prakhargurunani/Autolinks) 🤝
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I am often into cyber security and hacking !
 - 📫 How to reach me: prakhargurunani@gmail.com

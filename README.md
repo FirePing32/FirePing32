@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Prakhar!](https://www.prakhargurunani.com) 
+### Hey 👋, I'm [Prakhar!](https://www.prakhargurunani.com) 
 
 <a href="https://twitter.com/PrakharGurunani">
   <img align="left" alt="Prakhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

@@ -29,7 +29,7 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 - 👯 I’m looking to collaborate on [Autolinks](https://github.com/prakhargurunani/Autolinks) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I am often into cyber security and hacking !
+- ⚡️ Fun-Fact: I am often into penetration testing !
 - 📫 How to reach me: prakhargurunani@gmail.com
 
 **Languages and Tools:**  

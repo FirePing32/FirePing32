@@ -47,4 +47,4 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 
 
 ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhargurunani&show_icons=true&hide_border=true)
-
+![Prakhar's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhargurunani&layout=compact&show_icons=true&hide_border=true)

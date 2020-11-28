@@ -26,7 +26,7 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on [Autolinks](https://github.com/prakhargurunani/Autolinks) 🤝
+- 👯 I’m looking to collaborate on [PyPSI](https://github.com/prakhargurunani/PyPSI) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I am often into penetration testing !

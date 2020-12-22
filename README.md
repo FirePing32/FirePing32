@@ -1,18 +1,18 @@
 ### Hey 👋, I'm [Prakhar!](https://www.prakhargurunani.com) 
 
-<a href="https://twitter.com/PrakharGurunani">
+<a href="https://twitter.com/FirePing32">
   <img align="left" alt="Prakhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/prakhargurunani/">
-  <img align="left" alt="Prakhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/prakhargurunani/">
+  <img align="left" alt="Prakhar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/story/prakhargurunani">
-  <img align="left" alt="Prakhar's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://www.instagram.com/fireping32/">
+  <img align="left" alt="Prakhar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/c/PrakharGurunani">
   <img align="left" alt="Prakhar's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://medium.com/@prakhargurunani">
+<a href="https://medium.com/@fireping32">
   <img align="left" alt="Prakhar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 

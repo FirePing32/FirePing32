@@ -26,7 +26,7 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on [PyPSI](https://github.com/prakhargurunani/PyPSI) 🤝
+- 👯 I’m looking to collaborate on [PyPSI](https://github.com/FirePing32/PyPSI) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I am often into penetration testing !
@@ -46,5 +46,5 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 
 
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhargurunani&show_icons=true&hide_border=true)
-![Prakhar's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhargurunani&layout=compact&show_icons=true&hide_border=true)
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirePing32&show_icons=true&hide_border=true)
+![Prakhar's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirePing32&layout=compact&show_icons=true&hide_border=true)

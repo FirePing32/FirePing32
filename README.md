@@ -1,10 +1,10 @@
 ### Hey 👋, I'm [Prakhar!](https://www.prakhargurunani.com) 
 
 <a href="https://twitter.com/FirePing32">
-  <img align="left" alt="Prakhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Prakhar's Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/prakhargurunani/">
-  <img align="left" alt="Prakhar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Prakhar's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
 
 <br />
@@ -37,5 +37,5 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 
 
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirePing32&show_icons=true&hide_border=true)
-![Prakhar's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirePing32&layout=compact&show_icons=true&hide_border=true)
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirePing32&show_icons=true&hide_border=true&theme=tokyonight)
+![Prakhar's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirePing32&layout=compact&show_icons=true&hide_border=true&theme=tokyonight)

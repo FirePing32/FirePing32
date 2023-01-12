@@ -37,5 +37,5 @@ Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experi
 
 
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirePing32&show_icons=true&hide_border=true&theme=tokyonight)
-![Prakhar's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirePing32&layout=compact&show_icons=true&hide_border=true&theme=tokyonight)
+![Prakhar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FirePing32&show_icons=true&hide_border=true&theme=tokyonight)
+![Prakhar's Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FirePing32&layout=compact&show_icons=true&hide_border=true&theme=tokyonight)

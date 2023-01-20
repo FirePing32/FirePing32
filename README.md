@@ -10,31 +10,28 @@
 <br />
 <br />
 
-Hi, I'm Prakhar Gurunani, a Full Stack Developer 🚀 from India. I enjoy experimenting with IOT and contributing to the Open Source Society.
+Hi, I'm Prakhar Gurunani, a software developer 🚀 from India. I enjoy contributing to Open Source.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on [PyPSI](https://github.com/FirePing32/PyPSI) 🤝
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on [GO-Carbon](https://github.com/FirePing32/go-carbon) 🤝
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I am often into penetration testing !
+- ⚡️ Fun-Fact: I love pressing the F5 key. It's refreshing !
 - 📫 How to reach me: prakhargurunani@gmail.com
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
 
 
 ![Prakhar's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FirePing32&show_icons=true&hide_border=true&theme=tokyonight)
